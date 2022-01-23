@@ -1,7 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-/* .second-carosuel{
-    background-color: rgba(34, 70, 185, 0.459);
-    color: wheat;
-} */
+.bg-moment{
+    background-color: thistle;
+}
