@@ -21,6 +21,7 @@ body{
     position: left;
 }
 
+
 @media (min-width:576px) and (max-width:7678px) {
     .respo{
         margin-top:0.1px;
@@ -34,4 +35,8 @@ body{
     .respo-btn{
         margin-bottom: 10px;
     }
+    .respo-ask{
+        flex-wrap: wrap;
+    }
+    
 }
