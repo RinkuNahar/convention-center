@@ -6,9 +6,21 @@ body{
 }
 .btn-color{
     background-color:#F496D1;
-    ;
 }
+.hover-card{
+    transition: transform 2s ease-in-out;
+}
+.hover-card:hover{
+    background-color: blue;
+    margin-top: -20px;
+    color: white;
+    border-radius: 20px;
+    transform: scale(0.75);
+}
+.hover-card:hover .fas-hover{
+    color: white;
 
+}
 .margin-special{
     margin-top: -30px;
 }
