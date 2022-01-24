@@ -17,6 +17,9 @@ body{
     border-radius: 20px;
     transform: scale(0.75);
 }
+.fas-hover{
+ color: gray;
+}
 .hover-card:hover .fas-hover{
     color: white;
 
