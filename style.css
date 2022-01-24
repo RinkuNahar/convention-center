@@ -4,3 +4,26 @@ body{
 .bg-moment{
     background-color: thistle;
 }
+.btn-color{
+    background-color:#F496D1;
+    ;
+}
+.margin-special{
+    margin-top: -30px;
+}
+@media (min-width:576px) and (max-width:7678px) {
+    .respo{
+        margin-top:30px;
+    }
+    .respo-btn{
+        margin-bottom: 10px;
+    }
+}
+@media (max-width:576px) {
+    .respo{
+        margin-top:30px;
+    }
+    .respo-btn{
+        margin-bottom: 10px;
+    }
+}
